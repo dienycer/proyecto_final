@@ -1,0 +1,79 @@
+# Blender3D MTL File: Sthertoth God of Chaos.blend
+# Material Count: 7
+newmtl Material.005_Gem.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.396875 0.396875 0.396875
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Gem.png
+
+
+newmtl Material.022_Buckle.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.440625 0.440625 0.440625
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Buckle.png
+
+
+newmtl Material.004_Parts.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.317500 0.317500 0.317500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Parts.png
+
+
+newmtl Material.001_Shoulders+Torso.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.317500 0.317500 0.317500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Shoulders+Torso.png
+
+
+newmtl Material_Arms+Feet.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.317500 0.317500 0.317500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Arms+Feet.png
+
+
+newmtl Material.002_Shins.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.637500 0.637500 0.637500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shins.png
+
+
+newmtl Material.003_Face.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.317500 0.317500 0.317500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Face.png
+
+
